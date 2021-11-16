@@ -1,0 +1,9 @@
+@import './Global/Colors.scss';
+
+.App {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 200vh;
+  background-color: $peach;
+}

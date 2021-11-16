@@ -1,0 +1,29 @@
+@import '../../Global/Colors.scss';
+
+.navContainer{
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: $violet;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+.list {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.list:hover {
+  background-color: $dark-blue;
+}
