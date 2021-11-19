@@ -23,8 +23,8 @@ function App() {
       </header>*/}
       {/* <Nav/> */}
       {/* <NavBs/> */}
-      {/* <Nav/> */}
-      <NavBs/>
+      <Nav/>
+      {/* <NavBs/> */}
     </div>
   );
 }
